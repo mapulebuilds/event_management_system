@@ -1,0 +1,3 @@
+8,EFF Red Friday,2025-05-04,Pilitical event
+9,Soccer Game,2025-05-08,Sports and games
+10,SRC elections,2025-05-12,Voting for SRC's

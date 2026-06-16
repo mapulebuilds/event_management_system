@@ -1,0 +1,10 @@
+# Build output
+build/
+dist/
+
+# NetBeans private (per-user) settings
+nbproject/private/
+
+# OS metadata
+.DS_Store
+Thumbs.db
